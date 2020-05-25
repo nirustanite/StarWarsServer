@@ -4,7 +4,7 @@ const rp = require('request-promise');
 const router = new Router();
 const btoa = require('btoa');
 
-
+// endpoint to get the list of films based on search term
 router.get('/films', async (req, res, next) => {
     const film = req.query.searchterm;
     const url = `${baseUrl}/films/?search=${film}`;

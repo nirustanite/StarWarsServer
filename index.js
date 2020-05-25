@@ -1,7 +1,7 @@
 const express = require('express');
 const cors= require('cors');
 const bodyParser = require('body-parser');
-const filmsRouter = require('./FIlms/filmsrouter');
+const filmsRouter = require('./Films/filmsrouter');
 const charactersRouter = require('./Characters/charactersRouter');
 
 const app = express();

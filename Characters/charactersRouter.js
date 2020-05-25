@@ -9,6 +9,7 @@ function compare(a,b){
   return b.height - a.height;
 }
 
+// endpoint to get characters based on the selected film
 router.get('/films/:id/characters', async (req, res, next) => {
 
    const sortoption = req.query.sort;
@@ -26,6 +27,5 @@ router.get('/films/:id/characters', async (req, res, next) => {
    
    
 })
-
 module.exports =  router;
 

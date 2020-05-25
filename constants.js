@@ -1,3 +1,3 @@
-const baseUrl = "https://swapi.dev/api";
-
-module.exports= {baseUrl};
+const baseUrl = "https://swapi.dev/api"; // start wars api
+ 
+module.exports= {baseUrl}; 
