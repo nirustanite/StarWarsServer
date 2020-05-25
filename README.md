@@ -26,5 +26,4 @@
     `npm start`
     
 ## Front end can be found on the following link
-
-    [StartWarsClient](https://github.com/nirustanite/StarWarsServer)
+  (https://github.com/nirustanite/StarWarsClient)
