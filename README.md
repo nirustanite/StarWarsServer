@@ -27,4 +27,4 @@
     
 ## Front end can be found on the following link
 
-    [STAR_WARS_CLIENT](https://github.com/nirustanite/StarWarsServer)
+    [StartWarsClient](https://github.com/nirustanite/StarWarsServer)
